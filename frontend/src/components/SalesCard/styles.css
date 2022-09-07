@@ -8,14 +8,18 @@
   color: #676fff;
   font-size: 24px;
   margin-bottom: 20px;
+  text-align: center;
 }
 
 .dsmeta-form-control-container {
+  margin: auto;
+  width: 50%;
   margin-bottom: 16px;
   max-width: 300px;
 }
 
 .dsmeta-form-control {
+  text-align: center;
   width: 100%;
   height: 46px;
   background-color: #1b2531;
